@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sacraecaesmaicon00hera_0078.png"; bbox 0 0 1882 3094; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1813 1863 1834 2353">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1813 1863 1834 2353">
+     <span class='ocr_line' id='line_1_1' title="bbox 1813 1863 1834 2353; baseline 490 -2450"><span class='ocrx_word' id='word_1_1' title='bbox 1828 1863 1829 1868; x_wconf 67' lang='grc'>,</span> <span class='ocrx_word' id='word_1_2' title='bbox 1823 1896 1831 1951; x_wconf 78' lang='grc'><em>.,</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1825 2022 1831 2044; x_wconf 70' lang='grc' dir='ltr'><em>ξ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1813 2058 1834 2276; x_wconf 42' lang='lat' dir='ltr'><em>«faex-evita..</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1818 2306 1834 2353; x_wconf 58' lang='lat'><em>,32</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1876 3094">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1876 3094">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1876 3094"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1876 3094; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
